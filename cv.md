@@ -37,6 +37,6 @@ University: Moscow Financial and Legal Academy
 
 ## Courses:
 * HTML Academy
-* 
+
 ## Languages
 English - A1
