@@ -30,7 +30,7 @@ function sum(a, b) {
 ```
 
 ## Experience
-[First basic project](https://github.com/jglip/rsschool-cv/blob/gh-pages/cv.md)
+[First basic project](https://github.com/jglip/rsschool-cv/cv.md)
 
 ## Education
 University: Moscow Financial and Legal Academy

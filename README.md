@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/jglip/rsschool-cv/cv.md
